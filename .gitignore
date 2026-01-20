@@ -1,0 +1,57 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# OS / Editor Files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Generated Images (AQI posts)
+# =========================
+*.png
+*.jpg
+*.jpeg
+assets/*
+assets/
+aqi_bot.sublime-workspace
+imp.txt
+# =========================
+# Fonts (optional – remove if you want to track them)
+# =========================
+
+# =========================
+# Misc
+# =========================
+*.tmp
